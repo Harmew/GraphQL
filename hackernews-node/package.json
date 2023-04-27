@@ -1,0 +1,22 @@
+{
+  "name": "hackernews-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^4.13.0",
+    "apollo-server": "^2.26.1",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^14.7.0",
+    "jsonwebtoken": "^9.0.0"
+  },
+  "devDependencies": {
+    "prisma": "^4.13.0"
+  }
+}
