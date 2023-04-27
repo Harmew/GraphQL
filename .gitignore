@@ -1,5 +1,7 @@
 hackernews-node/node_modules
 hackernews-node/package-lock.json
+hackernews-node/prisma/migrations
+hackernews-node/prisma/dev.db
 
 hackernews-react-apollo/node_modules
 hackernews-react-apollo/package-lock.json
